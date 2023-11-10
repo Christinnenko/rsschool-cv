@@ -1,6 +1,6 @@
 # **Christina Ermolenko**
 
-![My photo](image/Me.jpg)
+![My photo](images/Me.jpg)
 
 ## Contacts:
 
@@ -65,7 +65,7 @@ function elevatorDistance(array) {
 }
 ```
 
-![Codewars level](image/Codewars.png)
+![Codewars level](images/Codewars.png)
 
 ## Education:
 
@@ -86,4 +86,4 @@ function elevatorDistance(array) {
 
 - Russian - native speaker
 - English - A2 Elementary (according to the online test at EFset Logo <www.efset.org>)<br>
-  ![English level](image/English.png)
+  ![English level](images/English.png)
